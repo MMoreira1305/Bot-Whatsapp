@@ -1,1 +1,3 @@
 # Bot-Whatsapp
+# In this project you will need: Ngrok to put the application online and get the code data to transform to the user in Whatsapp, you must also put it in the cloud, or simply start Ngrok (See the tutorial on the ngrok website)
+# After that, you must create a Twilio account and there they will give you a phone number for this bot, in settings there is where Twilio will get the configuration, in the case of the ngrok URL.
